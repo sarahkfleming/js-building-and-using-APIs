@@ -1,0 +1,34 @@
+{
+  "foods": [
+    {
+      "name": "Fettuccine",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "id": 1
+    },
+    {
+      "name": "Orange Chicken",
+      "category": "Chicken",
+      "ethnicity": "Chinese",
+      "id": 2
+    },
+    {
+      "name": "Caesar Salad",
+      "category": "Salad",
+      "ethnicity": "Italian",
+      "id": 3
+    },
+    {
+      "name": "Bacon Cheeseburger",
+      "category": "Sandwich",
+      "ethnicity": "American",
+      "id": 4
+    },
+    {
+      "name": "Crunchy Crab Roll",
+      "category": "Sushi",
+      "ethnicity": "Japanese",
+      "id": 5
+    }
+  ]
+}

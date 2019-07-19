@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Fettuccine",
+      "category": "Pasta",
+      "ethnicity": "Italian"
+    },
+    {
+      "id": 2,
+      "name": "Orange Chicken",
+      "category": "Chicken",
+      "ethnicity": "Chinese"
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "category": "Salad",
+      "ethnicity": "Italian-American"
+    }
+  ]
+}
