@@ -1,33 +1,38 @@
 {
   "foods": [
     {
-      "name": "Fettuccine",
+      "name": "Fettuccine Alfredo",
       "category": "Pasta",
       "ethnicity": "Italian",
+      "barcode": "0717854215015",
       "id": 1
     },
     {
       "name": "Orange Chicken",
       "category": "Chicken",
       "ethnicity": "Chinese",
+      "barcode": "00665636",
       "id": 2
     },
     {
       "name": "Caesar Salad",
       "category": "Salad",
       "ethnicity": "Italian",
+      "barcode": "3367651008159",
       "id": 3
     },
     {
       "name": "Bacon Cheeseburger",
       "category": "Sandwich",
       "ethnicity": "American",
+      "barcode": "3181232518840",
       "id": 4
     },
     {
       "name": "Crunchy Crab Roll",
       "category": "Sushi",
       "ethnicity": "Japanese",
+      "barcode": "8436539680048",
       "id": 5
     }
   ]
